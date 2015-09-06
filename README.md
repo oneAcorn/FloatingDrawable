@@ -11,7 +11,7 @@
 
 
 <h3>使用方法</h3>
-xml中直接写明控件大小,并且clickable=true;</br>
+随便一个View,并写明控件大小,clickable=true;</br>
 ![github](https://github.com/oneAcorn/FloatingDrawable/blob/master/code1.png)
 </br>
 代码</br>
